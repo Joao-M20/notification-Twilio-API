@@ -9,7 +9,7 @@ function Header() {
                     <h1>Test Notification with Twilio API</h1>
                     <p>
                         Desenvolvido por
-                        <a href="https://www.instagram.com/">Me :D</a>
+                        <a href="https://www.instagram.com/">Me :)</a>
                     </p>
                 </div>
             </header>
