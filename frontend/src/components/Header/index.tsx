@@ -5,11 +5,11 @@ function Header() {
     return (
             <header>
                 <div className="dsmeta-logo-container">
-                    <img src={logo} alt="DSMeta" />
-                    <h1>Test Notification with Twilio API</h1>
+                    <img src={logo} alt="Notification" />
+                    <h1>Notification with Twilio API</h1>
                     <p>
                         Desenvolvido por
-                        <a href="https://www.instagram.com/">Me :)</a>
+                        <a href="https://github.com/Joao-M20"> Joao-M20</a>
                     </p>
                 </div>
             </header>

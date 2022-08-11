@@ -32,6 +32,7 @@ function SalesCard() {
         <div className="dsmeta-card">
             <h2 className="dsmeta-sales-title">Vendas</h2>
             <div>
+                
                 <div className="dsmeta-form-control-container">
                     <DatePicker
                         selected={minDate}
@@ -40,6 +41,7 @@ function SalesCard() {
                         dateFormat="dd/MM/yyyy"
                     />
                 </div>
+                <h4>ate</h4>
                 <div className="dsmeta-form-control-container">
                     <DatePicker
                         selected={maxDate}
